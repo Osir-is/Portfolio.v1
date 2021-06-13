@@ -1,0 +1,88 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.bac
+
+
+body{
+    margin: 0px;
+}
+nav {
+    display:flex ;
+    justify-content: space-between;
+    background: #1c1e31 ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav-about{ 
+    color:#00fbff
+
+}
+.nav-about:visited{
+    color: #00fbff;
+}
+
+.nav-work{
+    color:#00fbff
+}
+
+.nav-work:visited{
+    color:#00fbff
+}
+
+.nav-contact{
+    color:#00fbff
+}
+.nav-contact:visited{
+    color:#00fbff
+}
+.nav-cv{
+    color:#00fbff
+}
+
+.nav-cv:visited{
+    color:#00fbff
+}
+
+
+
+nav span{
+    background: #00fbff ;
+    padding-left: 40px;
+    font-size: 40px;
+}
+.nav-links{
+    list-style: none;
+    flex-direction: row;
+    display: flex;
+    margin:0;
+    align-items: center;
+    margin-right: 10px;
+}
+.nav-links li {
+    margin-left: 10px;
+    text-decoration: underline;
+    color:#00fbff ;
+}
+.about-me-title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    color: #053d63;
+}
+
+.info-aboutme {
+    width: 60%;
+    font-family: 'Old Standard TT', serif;
+    line-height: 2;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.my-image {
+    margin-top: 80px;
+    margin-left: 200px;
+    height: 300px;
+    width: 350px;
+
+}
