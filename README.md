@@ -1,7 +1,6 @@
 ## Description
 
-The portfolio is a webpage made up of a css file and a html file , its purpose is to serve as evidnce of the work i complete as a web developer and will be updated regurally to show case my work to future employers.
-
+The portfolio is a webpage made up of a JavaScript, CSS and HTML file. Its purpose is to serve as evidence of my complete work as a web developer and will be updated regularly to showcase my work to future employers
 
 ## Task Objective
 
